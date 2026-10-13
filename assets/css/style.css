@@ -1,0 +1,8 @@
+body { background: #f4f6f9; }
+.card { border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.chore-card { transition: transform 0.2s; }
+.chore-card:hover { transform: translateY(-3px); }
+.leaderboard-gold { background: #fff3cd; }
+.leaderboard-silver { background: #e2e3e5; }
+.leaderboard-bronze { background: #f8d7da; }
+.points-big { font-size: 3rem; font-weight: bold; color: #ffc107; }
